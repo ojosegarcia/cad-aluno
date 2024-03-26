@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "José Garcia",
+      "course": "Computação"
+    },
+    {
+      "id": "2",
+      "name": "Roberto Garcia",
+      "course": "Letras"
+    },
+    {
+      "id": "3",
+      "name": "Carla Garcia",
+      "course": "Eventos"
+    },
+    {
+      "id": "4",
+      "name": "antonio",
+      "course": "ads"
+    }
+  ]
+}
