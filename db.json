@@ -4,6 +4,11 @@
       "id": 1,
       "name": "jose",
       "course": "fds"
+    },
+    {
+      "id": 2,
+      "name": "3223",
+      "course": "34"
     }
   ]
 }
